@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CZR-Pablo
 - 👀 I’m interested in Archaeology
-- 🌱 I’m currently (slowly) learning JS annd R
+- 🌱 I’m currently (slowly) learning JS, Leaflet annd R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
